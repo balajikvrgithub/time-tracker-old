@@ -1,3 +1,4 @@
+/*
 package clinic.programming.timetracker.core;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,3 +28,5 @@ public class Tracker {
         return entries.get(index);
     }
 }
+
+*/
