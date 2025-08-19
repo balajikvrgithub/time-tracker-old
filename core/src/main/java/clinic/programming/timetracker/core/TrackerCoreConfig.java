@@ -1,4 +1,4 @@
-package clinic.programming.timetracker.core;
+/*package clinic.programming.timetracker.core;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -20,3 +20,4 @@ public class TrackerCoreConfig {
         return new ArrayList<>();
     }
 }
+*/
