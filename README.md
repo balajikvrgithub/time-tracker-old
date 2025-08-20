@@ -1,6 +1,7 @@
 # time-tracker 
 # extra line
-# extra line2
+# extra line 2
+# extra line 3
 
 Java (Maven) application for tracking time on the job
 
