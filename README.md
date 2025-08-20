@@ -3,6 +3,7 @@
 # extra line 2
 # extra line 3
 # extra line 4
+# extra line 5
 
 Java (Maven) application for tracking time on the job
 
